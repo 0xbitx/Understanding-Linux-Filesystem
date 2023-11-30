@@ -1,4 +1,17 @@
-# Understanding-Linux-Filesystem
+
+<div align="center">
+    <img 
+        style="width: 500px; 
+               height: 500px;
+               display: block; 
+               margin-left: auto;
+               margin-right: auto;"
+        src="https://pics.freeicons.io/uploads/icons/png/6150684271558096337-512.png" 
+        alt="img">
+</div>
+
+
+<h1 align="center"> Understanding Linux Filesystem </h1>
 
 ## Introduction:
 
